@@ -1,31 +1,19 @@
-import java.util.ArrayList;
-import java.util.List;
-
+import java.util.*;
 public class ColorSearch {
 
-    public static void main(String[] args) {
-        // Creating an ArrayList to store colors
-        List<String> colors = new ArrayList<>();
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<String> ls = new ArrayList<>();
+		ls.add("Orange");
+		ls.add("geen");
+		ls.add("pink");
+		ls.add("red");
+		System.out.println(ls);
+		if(ls.contains("red")) {
+			System.out.println("available");
+		}else {
+			System.out.println("available not");
+		}
+	}
 
-        // Adding different colors to the ArrayList
-        colors.add("Blue");
-        colors.add("Green");
-        colors.add("Yellow");
-        colors.add("Red");
-        colors.add("Purple");
-        colors.add("Orange");
-
-        System.out.println("List of colors: " + colors);
-
-        // Searching for the color "Red"
-        String searchColor = "Red";
-        boolean isRedAvailable = colors.contains(searchColor);
-
-        // Displaying the search result
-        if (isRedAvailable) {
-            System.out.println("\nThe color \"" + searchColor + "\" is available in the list.");
-        } else {
-            System.out.println("\nThe color \"" + searchColor + "\" is not available in the list.");
-        }
-    }
 }
