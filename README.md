@@ -1,1 +1,1 @@
-https://github.com/trishaks/java-program/blob/main/Trunate.png
+https://github.com/trishaks/java-program/blob/main/Truncate.png
