@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS EmployeeDB;
+
+USE EmployeeDB;
+
+CREATE TABLE IF NOT EXISTS Employees (
+    EmpID INT PRIMARY KEY,
+    EmpFullName VARCHAR(150),
+    BasicSalary DECIMAL(10,2)
+);
