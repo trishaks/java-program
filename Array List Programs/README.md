@@ -1,6 +1,6 @@
 # 1b. Array List programs
 # 1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
-https://github.com/trishaks/java-program/blob/main/ColorSearch.png
+https://github.com/trishaks/java-program/blob/main/Array%20List%20Programs/ColorRemoval.png
 
 # 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList
 https://github.com/trishaks/java-program/blob/main/ColorRemoval.png
