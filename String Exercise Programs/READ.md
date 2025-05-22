@@ -6,8 +6,10 @@ https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/
 https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/Capitalized.png
 
 # Q3. Write a Java Program for Reversing the characters in a string using user defined function reverseString().
+https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/ReverseString.png
 
 # Q4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case and punctuation) using user defined function isPalindrome():
+https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/Palindrome.png
 
 # Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()
 https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/WhitespaceRemover.png
@@ -20,6 +22,7 @@ https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/
 https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/Truncate.png
 
 # Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()
+https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/IsNumeric.png
 
 # Q9. Write a Java Program for Creating a random string of a specified length using user defined function generateRandomString()
 https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/RandomString.png
