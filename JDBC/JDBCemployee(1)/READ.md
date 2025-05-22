@@ -9,3 +9,4 @@ https://github.com/trishaks/java-program/blob/main/JDBC/JDBCemployee(1)/queryCof
 # SalaryReport
 
 # DeleteEmployees
+https://github.com/trishaks/java-program/blob/main/JDBC/JDBCemployee(1)/9d.png
