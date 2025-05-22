@@ -3,7 +3,7 @@
 https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/Capitalized.png
 
 # Q2. Write a Java Program for Counting how many times a substring appears in a main string using user defined function countOccurrences()
-https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/Capitalized.png
+https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/SubStringCounter.png
 
 # Q3. Write a Java Program for Reversing the characters in a string using user defined function reverseString().
 https://github.com/trishaks/java-program/blob/main/String%20Exercise%20Programs/ReverseString.png
