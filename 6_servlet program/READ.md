@@ -6,4 +6,4 @@ https://github.com/trishaks/java-program/blob/main/6_servlet%20program/Factorial
 https://github.com/trishaks/java-program/blob/main/6_servlet%20program/Cookie/Cookie.png
 
 # 6c. Prime Check Servlet output link:
-https://github.com/trishaks/java-program/blob/main/Servlet%20Programs/PrimeCheckServlet/PrimeCheckServlet.png
+https://github.com/trishaks/java-program/blob/main/6_servlet%20program/PrimeCheckServlet/PrimeCheckServlet.png
