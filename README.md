@@ -16,3 +16,15 @@ https://github.com/trishaks/java-program/blob/main/2_TreeMap_Exercises/READ.md
 https://github.com/trishaks/java-program/blob/main/3a_String%20operation_Exercises./READ.md
 # String Handling output link:
 https://github.com/trishaks/java-program/blob/main/3a_stringOperation_stringHandling/READ.md
+# String Builder output link:
+https://github.com/trishaks/java-program/blob/main/3b_StringBuffer%20and%20StringBuilder/READ.md
+# Swing output link:
+https://github.com/trishaks/java-program/blob/main/4%265_Swing%20Programs/READ.md
+# Servlet output link:
+https://github.com/trishaks/java-program/blob/main/6_servlet%20program/READ.md
+# Session management output link:
+https://github.com/trishaks/java-program/blob/main/7_Session_%20Management/READ.md
+# Cookie management output link:
+https://github.com/trishaks/java-program/blob/main/7b_Cookie%20Management/READ.md
+# JDBC:
+https://github.com/trishaks/java-program/tree/main/8%269_JDBC
