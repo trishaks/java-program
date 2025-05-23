@@ -7,6 +7,6 @@ https://github.com/trishaks/java-program/blob/main/JDBC/JDBCemployee(1)/queryCof
 
 # Exercise 9
 # SalaryReport
-
+https://github.com/trishaks/java-program/blob/main/8%269_JDBC/JDBCemployee(1)/SalaryReport.png
 # DeleteEmployees
 https://github.com/trishaks/java-program/blob/main/JDBC/JDBCemployee(1)/9d.png
