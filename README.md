@@ -29,4 +29,4 @@ https://github.com/trishaks/java-program/blob/main/7b_Cookie%20Management/READ.m
 # JDBC link:
 https://github.com/trishaks/java-program/tree/main/8%269_JDBC
 # Hostel Management System link:
-
+https://github.com/trishaks/java-program/blob/main/Hostel%20Management%20System/READ.md
